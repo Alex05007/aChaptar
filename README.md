@@ -10,6 +10,12 @@ Add into your HTML Form.
 ```bash
 <form id="aCAPTCHA_protected_form">
 ```
+
+Add inside your HTML Form.
+
+```bash
+<script src="https://gnets.myds.me/developer/acaptcha/api/script.js" language="JavaScript" ></script>
+```
 In the action page add (for PHP):
 
 ```bash
